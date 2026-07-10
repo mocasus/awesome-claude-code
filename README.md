@@ -352,6 +352,9 @@ The current iteration of the list, such as you see it today, was launched with t
 
 ## Usage & Cost Monitoring
 
+- [paleo](https://github.com/mocasus/paleo) by [mocasus](https://github.com/mocasus) - A collection of 6 token-saving skills for AI coding agents (Claude Code, Codex, Gemini CLI, OpenCode, Qwen): compress output, trim context, budget caps, merge chatter, summarize tool output, compact JSON. Benchmarked median 53.8% fewer output tokens, zero quality loss. Install: `npx skills add mocasus/paleo`.  
+<img src="https://img.shields.io/github/created-at/mocasus/paleo?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">&nbsp;&nbsp;<img src="https://img.shields.io/github/last-commit/mocasus/paleo?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">&nbsp;&nbsp;<img src="https://img.shields.io/github/license/mocasus/paleo?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/mocasus/paleo?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
 - [AgentWatch](https://github.com/mishanefedov/agentwatch) by [mishanefedov](https://github.com/mishanefedov) - Local-only observability for AI agents on your machine. One timeline across coding and non-coding agents.  
 <img src="https://img.shields.io/github/created-at/mishanefedov/agentwatch?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">&nbsp;&nbsp;<img src="https://img.shields.io/github/last-commit/mishanefedov/agentwatch?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">&nbsp;&nbsp;<img src="https://img.shields.io/github/license/mishanefedov/agentwatch?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/mishanefedov/agentwatch?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
 
